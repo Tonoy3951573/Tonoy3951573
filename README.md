@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, I'm Tasauf Islam Tonoy
 
-<!--
-**Tonoy3951573/Tonoy3951573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **CSE undergrad** with a lot of curiosity and a passion for building things from scratch.  
+💡 I love experimenting with **C** and **C++**, exploring how systems work at their core.  
+🛠️ On this GitHub, you’ll mostly find me doing *fun stuff* like:  
+- Designing **tiny programming languages & compilers**  
+- Building **chess engines** and game-related logic  
+- Exploring low-level problem solving & algorithms  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Interests
+- **Languages:** C, C++ (my playground 🚀)  
+- **Topics I explore:** Compilers, interpreters, game engines, algorithms, system programming  
+- **Mindset:** Always curious, always tinkering  
+
+---
+
+### 🌱 What I’m up to
+- Making side projects for fun (sometimes crazy ideas 🤯)  
+- Learning advanced problem-solving techniques  
+- Building a foundation to explore **AI + Systems** in the future  
+
+---
+
+### 📫 Connect with me
+- 💼 [Facebook](https://web.facebook.com/tasauf.i.tonoy)  
+-  
+- 📧 You can reach me at: *tasaufislamt@gmail.com*  
+
+---
+
+⭐ *"Curiosity is my compiler, and fun is my runtime."*
