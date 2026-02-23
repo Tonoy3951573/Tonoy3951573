@@ -4,7 +4,7 @@ I'm **Tasauf Islam Tonoy**, I love crafting efficient and innovative solutions t
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,git,vscode,windows,linux&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,git,vscode,windows,java,linux&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
