@@ -4,11 +4,7 @@ I'm **Tasauf Islam Tonoy**, I love crafting efficient and innovative solutions t
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,git,vscode,windows,java,linux&perline=8)](https://skillicons.dev)
-
-## Top Projects
-
-[![MicroInterpreter](https://github-readme-stats.vercel.app/api/pin/?username=Tonoy3951573&repo=MicroInterpreter&theme=dark)](https://github.com/Tonoy3951573/MicroInterpreter)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,tailwind,html,js,ts,react,git,vscode,windows,java,linux&perline=8)](https://skillicons.dev)
 
 ## Connect with Me
 
