@@ -181,14 +181,6 @@ public:
 
 ---
 
-
----
-
-# ☕ Support Me
-
-
----
-
 # 🌐 Connect
 
 <div align="center">
