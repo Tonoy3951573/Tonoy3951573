@@ -1,19 +1,25 @@
-name: 3D Contributions
+name: GitHub Profile 3D Contrib
 
 on:
   schedule:
     - cron: "0 18 * * *"
-
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      USERNAME: Tonoy3951573
+
     steps:
+      - uses: actions/checkout@v4
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
