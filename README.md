@@ -128,8 +128,7 @@ public:
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
-
+<img src="https://raw.githubusercontent.com/Tonoy3951573/Tonoy3951573/profile-3d-contrib/profile-night-rainbow.svg">
 </div>
 
 ---
