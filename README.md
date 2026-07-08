@@ -2,8 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,100:8A2BE2&text=Tasauf%20Islam%20Tonoy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Competitive%20Programmer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Full+Stack+Developer;Competitive+Programmer;Artificial+Intelligence+Enthusiast;Linux+Lover;Building+Awesome+Things+🚀"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;Competitive+Programmer;AI+Enthusiast" />
 <img src="https://komarev.com/ghpvc/?username=Tonoy3951573&style=for-the-badge&color=blueviolet"/>
 
 </div>
