@@ -82,15 +82,15 @@ public:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tonoy3951573&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tonoy3951573&show_icons=true&theme=tokyonight&hide_border=true"/> -->
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tonoy3951573&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonoy3951573&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonoy3951573&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
 </div>
 
----
+<!-- ---
 
 # 🏆 GitHub Trophies
 
@@ -98,9 +98,9 @@ public:
 
 <img src="https://github-profile-trophy.vercel.app/?username=Tonoy3951573&theme=tokyonight&no-frame=true&column=4"/>
 
-</div>
+</div> -->
 
----
+--- 
 
 # 📈 Contribution Graph
 
@@ -217,7 +217,7 @@ public:
 
 ### 🚀 Thanks for visiting!
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Happy+Coding!+🚀;Open+Source+❤️;See+You+Again!+👋"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Happy+Coding!;Open+Source;See+You+Again!"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:00F5FF,100:8A2BE2"/>
 
